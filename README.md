@@ -20,8 +20,8 @@
 
 ### Connect with me:
 [<img alt="Twitter" width="22px" src="/assets/twitter.png" />][twitter]     
-[<img alt="LinkedIn" width="22px" src="/assets/instagram.png" />][linkedin]     
-[<img alt="Instagram" width="22px" src="/assets/linkedIn.png" />][instagram]
+[<img alt="LinkedIn" width="22px" src="/assets/instagram.png" />][instagram]     
+[<img alt="Instagram" width="22px" src="/assets/linkedIn.png" />][linkedin]
 
 <br />
 
@@ -30,8 +30,7 @@
 [linkedin]: https://www.linkedin.com/in/mhd-hussam-habbas-b37a00207/
 
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habbas11&layout=compact&hide=html" alt="zendy199x" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habbas11&layout=compact&hide=html" alt="habbas11" /></div>
 <br />
-<br />
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=habbas11&show_icons=true" alt="zendy199x" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=habbas11&show_icons=true" alt="habbas11" /></div>
 
