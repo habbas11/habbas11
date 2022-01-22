@@ -8,7 +8,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/HussamHabbas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/HussamHabbas&screen_name=HussamHabbas)
 <br/>
-### Software Developer 👨‍💻 | In love with Flutter 📱, and the great Javascript runtime environment #NodeJS 😎
+### Software Developer 👨‍💻 | In love with Flutter 📱, and the great Javascript runtime environment NodeJS 😎
 
 
 ## Languages and Tools I use:
