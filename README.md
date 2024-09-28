@@ -1,36 +1,50 @@
-<pre>
-<span>Hello World!</span>
-                ¯\_(ツ)_/¯
-</pre>
+# Hi, I'm Hussam! 👋  
+Welcome to my GitHub profile!
 
+I’m a passionate **ML Engineer** and **Data Analyst** with a background in **Software Development** and **Education**. I’m continuously exploring the latest in machine learning, and data analytics aiming to bring innovative ideas to life through code.
 
-### Hello there, I am Hussam Habbas 😊
+---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/HussamHabbas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/HussamHabbas&screen_name=HussamHabbas)
-<br/>
-### Software Developer 👨‍💻 | In love with Flutter 📱, and the great Javascript runtime environment NodeJS 😎
+### 🚀 About Me
 
+- **💻 Software Developer** – Working on web and mobile applications, always aiming for clean, efficient code.
+- **📊 Data Analyst** – Experienced in creating data reports and visualizations using tools like **Power BI**.
+- **👨‍🏫 Computer Science Teacher** – Teaching **IGCSE™ Computer Science** and helping students grasp key concepts in programming and computational thinking.
+- **🐾 Startup Founder** – Building a mobile and web application for pet owners.
 
-## Languages and Tools I use:
+---
 
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>][github]
-### Connect with me:
-[<img alt="Twitter" width="22px" src="/assets/twitter.png" />][twitter]     
-[<img alt="LinkedIn" width="22px" src="/assets/instagram.png" />][instagram]     
-[<img alt="Instagram" width="22px" src="/assets/linkedIn.png" />][linkedin]
+### 🔧 Technologies & Tools
 
-<br />
+- **Languages:** Python, JavaScript, SQL
+- **Data Tools:** Power BI, Excel, Pandas, NumPy
+- **Web & App Development:** HTML, CSS, JavaScript, Django, Flutter
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras
+- **Version Control:** Git, GitHub
 
-[twitter]: https://twitter.com/HussamHabbas
-[instagram]: https://www.instagram.com/habbashussam11
-[linkedin]: https://www.linkedin.com/in/mhd-hussam-habbas-b37a00207/
-[github]: https://github.com/habbas11
+---
 
+### 📚 Current Projects
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habbas11&layout=compact&hide=html" alt="habbas11" /></div>
-<br />
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=habbas11&show_icons=true" alt="habbas11" /></div>
+- **Pet Owners App**: Developing a web and mobile app for pet owners to manage their pets' needs.
+- **Data Analysis**: Creating reports and visualizations for an international school using Power BI.
+- **Computer Science Teaching**: Designing engaging quizzes and lessons for high school students.
 
+---
+
+### 🌱 I’m Learning
+
+- Advanced **Machine Learning** techniques
+- **Flutter** for cross-platform mobile app development
+
+---
+
+### 📝 Get in Touch
+
+- **Email**: habbashussam11@gmail.com
+- **LinkedIn**: [linkedin.com/in/husamabbas](https://linkedin.com/in/husamabbas)
+- **Portfolio**: Comming soon...
+
+---
+
+Thanks for visiting! I’m always open to collaborating on interesting projects. Let’s create something amazing together! 😊
