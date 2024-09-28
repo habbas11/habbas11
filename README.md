@@ -1,4 +1,4 @@
-# Hi, I'm Hussam! 👋  
+# Hi, I'm Husam! 👋  
 Welcome to my GitHub profile!
 
 I’m a passionate **ML Engineer** and **Data Analyst** with a background in **Software Development** and **Education**. I’m continuously exploring the latest in machine learning, and data analytics aiming to bring innovative ideas to life through code.
